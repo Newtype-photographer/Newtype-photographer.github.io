@@ -112,10 +112,10 @@ author:
   links:
     - label: "E-mail"
       icon: "fab fa-slack-hash"
-      url: "ckj950926@naver.com"
+      url: "mailto:ckj950926@naver.com"
     - label: "Work"
       icon: "fab fa-slack-hash"
-      url: "ckj950926@jinwoons.com"
+      url: "mailto:ckj950926@jinwoons.com"
     - label: "Instargram"
       icon: "fab fa-slack-hash"
       url: "https://www.instagram.com/newtype_photographer/"
