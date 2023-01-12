@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Categoty"
+    url: https://Newtype-photographer.github.io/categories/
+  - title: "Tag"
+    url: https://Newtype-photographer.github.io/tag/
+  - title: "Instargram"
+    url: https://www.instagram.com/newtype_photographer/"
+  - title: "Youtube"
+    url: https://www.youtube.com/
   # - title: "Sitemap"
   #   url: /sitemap/
