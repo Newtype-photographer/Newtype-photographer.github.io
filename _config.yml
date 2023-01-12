@@ -110,10 +110,10 @@ author:
   location         : "South Korea in Jeju" #위치설정
   email            :
   links:
-    - label: "E-mail"
+    - label: "Photo-mail"
       icon: "fab fa-slack-hash"
       url: "mailto:ckj950926@naver.com"
-    - label: "Work"
+    - label: "Work-mail"
       icon: "fab fa-slack-hash"
       url: "mailto:ckj950926@jinwoons.com"
     - label: "Instargram"
