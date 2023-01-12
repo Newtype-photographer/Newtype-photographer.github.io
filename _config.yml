@@ -107,27 +107,19 @@ author:
   name             : "Newtype_photographer"
   avatar           : "/assets/avatar_1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "뉴타입삐리뽕에 취한드앙 >_<"
-  location         : "Somewhere"
+  location         : "South Korea in Jeju" #위치설정
   email            :
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "E-mail"
+      icon: "fa-duotone fa-envelope"
+      url: "ckj950926@naver.com"
+    - label: "Work"
+      icon: "fa-sharp fa-solid fa-envelope"
+      url: "ckj950926@jinwoons.com"
+    - label: "Instargram"
+      icon: "fa-brands fa-instagram"
+      url: "https://www.instagram.com/newtype_photographer/"
+
 
 # Site Footer
 footer:
