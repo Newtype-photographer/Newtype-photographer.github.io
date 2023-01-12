@@ -23,7 +23,7 @@ name                     : "Newtype_photographer"
 description              : "포토그래퍼 + 코딩" #블로그설명_검색결과노출
 url                      : "https://github.com/Newtype-photographer"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/Newtype-photographer/Newtype-photographer.github.io" #블로그레포지토리링크_url과repository링크입력이잘못되면오류발생
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
