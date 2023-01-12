@@ -109,7 +109,7 @@ author:
   bio              : "뉴타입삐리뽕에 취한드앙 >_<"
   location         : "South Korea in Jeju" #위치설정
   email            :
-  links:
+  links: #프로필하단링크설정
     - label: "Photo-mail"
       icon: "fab fa-slack-hash"
       url: "mailto:ckj950926@naver.com"
@@ -123,10 +123,13 @@ author:
 
 # Site Footer
 footer:
-  links:
-    - label: "Instagram"
+  links: #홈페이지하단링크설정
+    - label: "Newtype_"
       icon: "fab fa-slack-hash"
       url: https://www.instagram.com/newtype_photographer/
+    - label: "GITHUB"
+      icon: "fab fa-slack-hash"
+      url: https://github.com/Newtype-photographer
 
 
 # Reading Files
