@@ -124,7 +124,7 @@ author:
 # Site Footer
 footer:
   links:
-    - #label: "Instagram"
+    - label: "Instagram"
       icon: "fab fa-slack-hash"
       url: https://www.instagram.com/newtype_photographer/
 
