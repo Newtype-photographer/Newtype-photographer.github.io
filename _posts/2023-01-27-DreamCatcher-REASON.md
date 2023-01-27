@@ -1,6 +1,6 @@
 ---
-title:  "[Song] Dreamcatcher - REASON"
-excerpt: ""
+#title:  "[Song] Dreamcatcher - REASON"
+excerpt: "[Song] Dreamcatcher - REASON"
 
 categories:
   - Song
